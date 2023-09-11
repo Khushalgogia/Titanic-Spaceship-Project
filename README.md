@@ -95,4 +95,4 @@ Special thanks to [mention_any_contributors] for their valuable contributions to
 
 ## Contact
 
-For questions or feedback, please reach out to [your_email@example.com].
+For questions or feedback, please reach out to khushal.gogia122@gmail.com
