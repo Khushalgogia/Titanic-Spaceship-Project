@@ -16,9 +16,6 @@ The primary objectives of this project are as follows:
 
 3. **Provide Insights**: Gain insights into the characteristics of passengers who were affected by the anomaly. Understand if certain demographics or factors played a role in their transportation.
 
-## Data Source
-
-The dataset for this project was obtained from [source_name](link_to_source). It contains information about the passengers on Spaceship Titanic, including their personal details, ticket information, and fate after the collision.
 
 ## Data Preprocessing
 
@@ -91,7 +88,6 @@ If you would like to contribute to this project, please follow the guidelines in
 This project is licensed under the [MIT License](LICENSE).
 
 
-Special thanks to [mention_any_contributors] for their valuable contributions to this project.
 
 ## Contact
 
